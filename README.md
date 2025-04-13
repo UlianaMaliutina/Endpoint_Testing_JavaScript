@@ -32,8 +32,7 @@ Assertion Testing: The expect() statements validate the response's properties an
 
 How to run tests:
 
-1. Clone the repository: git clone https://github.com/username/hm07-qa-us.git
-cd hm07-qa-us
+1. Clone the repository: https://github.com/UlianaMaliutina/Endpoint_Testing_JavaScript.git
 
 2. Install dependencies: npm install
 
